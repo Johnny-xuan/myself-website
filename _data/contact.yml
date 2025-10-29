@@ -2,13 +2,16 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  url: "https://github.com/Johnny-xuan"
 
 - type: email
   icon: "fas fa-envelope"
+  url: "mailto:universeszym@mail.ustc.edu.cn"
   noblank: true # open link in current tab
+
+- type: location
+  icon: "fas fa-map-marker-alt"
+  url: "https://www.google.com/maps/place/%E5%90%88%E8%82%A5%E5%B8%82" # 合肥
 
 - type: rss
   icon: "fas fa-rss"
